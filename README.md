@@ -20,3 +20,6 @@ To use it, you need to install the libraries
 - imgui_notf
 
 Copying of materials is prohibited. The publication may receive a commission from the purchase of goods presented in the publications.
+
+### Developers
+- nede7u
