@@ -1,4 +1,4 @@
-# NEW FERBYHelper
+# FERBYHelper
 
 ## FERBYHelper is your universal gaming assistant!
 
